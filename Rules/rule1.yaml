@@ -15,7 +15,7 @@ configuration:
     action.email: 1
     action.email.inline: 1
     action.email.sendresults: 1
-    action.email.to: olindo.verrillo@blackstone.com, Mauricio.Velazco@Blackstone.com
+    action.email.to: olindo.verrillo@gmail.com
     action.email.useNSSubject: 1
     alert.digest_mode: True
     alert.suppress: 0
